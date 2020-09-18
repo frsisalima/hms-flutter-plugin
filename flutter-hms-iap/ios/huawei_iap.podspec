@@ -11,6 +11,7 @@ Huawei HMS Flutter IAP Plugin.
                        DESC
   s.homepage         = 'https://www.huawei.com'
   s.license          = { :file => '../LICENSE' }
+  s.author           = { 'Huawei' => 'huawei@huawei.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
